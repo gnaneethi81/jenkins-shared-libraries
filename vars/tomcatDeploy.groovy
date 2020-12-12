@@ -8,4 +8,4 @@ def call(tomcatIp,tomcatUsr,finalWarName){
              ssh ${tomcatUsr}@${tomcatIp} /opt/tomcat8/bin/startup.sh
           """
 	  }
-            }
+ }
