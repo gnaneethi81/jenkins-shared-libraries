@@ -1,8 +1,8 @@
 # add two number
 
-def call(x,ya){
+def call(x,y){
 
   result = x+y
-  echo "Sum of ${x} and ${y} is ${result}
+  echo "Sum of ${x} and ${y} is ${result}"
 
 }
