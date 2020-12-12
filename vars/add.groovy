@@ -1,4 +1,4 @@
-# add two number
+// add two number
 
 def call(x,ya){
 
